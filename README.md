@@ -1,2 +1,5 @@
 # hello-world
-Baby's first repository on GitHub 
+
+Baby's first branch/readme-edit :P 
+
+cool potatoes.
